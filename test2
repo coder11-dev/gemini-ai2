@@ -1,0 +1,51 @@
+{
+  "page": {
+    "title": "Gemini AI",
+    "tagline": "Google's most capable AI assistant — built to help you create, learn, and explore like never before.",
+    "cta": {
+      "label": "Try Gemini for Free →",
+      "url": "https://gemini.google.com"
+    },
+    "features": [
+      {
+        "icon": "🎨",
+        "title": "Generate Images",
+        "description": "Describe anything and Gemini brings it to life visually — perfect for creative projects and ideas."
+      },
+      {
+        "icon": "🎵",
+        "title": "Music & Song Ideas",
+        "badge": "New",
+        "description": "Get lyrics, melodies, and creative song concepts tailored to your style and mood."
+      },
+      {
+        "icon": "💻",
+        "title": "Coding Assistant",
+        "description": "Write, debug, and explain code across dozens of programming languages with step-by-step guidance."
+      },
+      {
+        "icon": "📚",
+        "title": "Homework Help",
+        "description": "Stuck on a tough assignment? Gemini breaks down complex topics into clear, easy explanations."
+      },
+      {
+        "icon": "🎮",
+        "title": "Gaming Tips & Strategy",
+        "description": "Get walkthroughs, build ideas, and tactical advice for your favourite games."
+      },
+      {
+        "icon": "🎬",
+        "title": "Video Creation",
+        "badge": "Pro",
+        "description": "Gemini Advanced subscribers can explore AI-assisted video generation for creative projects."
+      }
+    ],
+    "download": {
+      "platform": "Android",
+      "label": "Get it on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard",
+      "note": "Free to download. Sign in with your Google account to get started."
+    },
+    "footer": "Gemini is a product of Google DeepMind. Content accuracy may vary — always verify important information."
+  }
+}
